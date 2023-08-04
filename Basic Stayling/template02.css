@@ -1,0 +1,22 @@
+#card_one,#card_two,#card_three{   
+    border: 1px solid black;
+    display: inline-block;
+    margin: 2px;
+    width: 300px;   
+    box-sizing: border-box;
+   text-align: center;
+   padding: 0px;
+}
+#container{
+    text-align: center;
+}
+#sub_box_one,#sub_box_two,#sub_box_three{
+    border-top:  1px solid black;
+    text-align: center; 
+    
+   padding:10px;    
+}
+button{
+    background-color: blue;
+    color:white;
+}
